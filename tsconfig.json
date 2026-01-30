@@ -20,7 +20,7 @@
     "baseUrl": ".",
     "paths": {
       "@shared/*": [
-        "../../packages/shared/src/*"
+        "src/shared/*"
       ]
     },
     "plugins": [
